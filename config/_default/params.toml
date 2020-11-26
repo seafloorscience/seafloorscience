@@ -15,7 +15,8 @@
 #   Browse user installed themes in `data/themes/`
 theme = "coffee"
 
-# Enable users to switch between day and night mode?
+# Enable users to switch between day and night mode? code -> day_night = true
+# below means only day mode theme, users can't switch.
 day = true
 
 # Override the theme's font set (optional).
