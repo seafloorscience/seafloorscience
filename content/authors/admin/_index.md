@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a Marine Ecologist at the National Institute of Water and Atmospheric Research (NIWA), based in Nelson, Aotearoa New Zealand. More blurb.
+Rachel Hale is a Marine Ecologist at the National Institute of Water and Atmospheric Research (NIWA), based in Nelson, Aotearoa New Zealand. More blurb.
 
 More blurb
