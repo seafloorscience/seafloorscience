@@ -85,6 +85,6 @@ user_groups:
 - Visitors
 ---
 
-Rachel Hale is a Marine Ecologist at the National Institute of Water and Atmospheric Research (NIWA) based in Nelson, Aotearoa New Zealand. More blurb.
+I am a Marine Ecologist based in Nelson, Aotearoa New Zealand working at the National Institute of Water and Atmospheric Research (NIWA). I work from the inter-tidal to the deep sea, investigating how animals that live in sediments, such as worms, shrimps, and snails, influence their environment and how they are influenced by their environment, with a focus on climate and anthropogenic stressors like increased temperature, ocean acidification, and physical benthic disturbance.
 
-More blurb
+I use measurements of biogeochemistry to answer questions about how changes in seafloor animal behaviour will have wider consequences for ocean health and climate.
