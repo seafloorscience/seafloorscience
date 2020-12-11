@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Marine Ecologist"
+  company = "NIWA, Nelson"
+  company_url = "www.niwa.co.nz"
+  location = "Nelson, New Zealand"
+  date_start = "February 2019"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Sustainable Aquaculture Research
+  * Pacific Island Coastal Water Quality
+  * Benthic Biogeochemistry and Biodiversity
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Fellow"
+  company = "University of Southampton"
+  company_url = "www.southampton.ac.uk"
+  location = "Southampton, United Kingdom"
+  date_start = "March 2014"
+  date_end = "January 2019"
+  description = """Postdoctoral research on the BLUE-coast and Shelf Sea Biogeochemistry Research Projects"""
 
+[[experience]]
+  title = "Associate Tutor"
+  company = "University of East Anglia"
+  company_url = "www.uea.ac.uk"
+  location = "Norwich, United Kingdom"
+  date_start = "October 2010"
+  date_end = "March 2014"
+  description = """Teaching and demonstrating for Research and Field Skills, Physical and Chemical Processes in the Earth’s System, Aquatic Ecology, GIS Skills for Project Work and Sedimentology Undergraduate and Masters level courses"""
 +++
