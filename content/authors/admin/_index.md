@@ -14,12 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed benthic ecology, community diversity and biogeochemistry.
+bio: My research interests include marine conservation and ecology, sustainable aquaculture, and benthic biogeochemistry.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Benthic Ecology
+- Sustainable Aquaculture
+- Marine Biogeochemistry
+- Statistics
 
 education:
   courses:
