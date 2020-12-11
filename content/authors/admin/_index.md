@@ -52,8 +52,11 @@ social:
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=Y7fGGjYAAAAJ&hl=en
 - icon: youtube
-  icon_pack: fa
+  icon_pack: fab
   link: https://www.youtube.com/channel/UC6fD0jG9JFquM4vZWMQFqgA
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5079-5954
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rachel-hale-171315151/
