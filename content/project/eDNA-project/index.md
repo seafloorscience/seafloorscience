@@ -1,9 +1,10 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Marine Benthic Inter-tidal eDNA Pilot Project
+summary: Vlidating the use of environmental DNA (eDNA) as a method for rapid and cost-effective marine habitat assessment.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Benthic Ecology
+- Marine Monitoring
+date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
