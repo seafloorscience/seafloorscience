@@ -1,6 +1,6 @@
 ---
-title: Shelf Sea Biogeochemistry
-summary: Shelf Seas - The engine of productivity.
+title: The Engine of Productivity
+summary: The Shelf Sea Biogeochemistry Research Project
 tags:
 - Biogeochemistry
 - Shelf Sea

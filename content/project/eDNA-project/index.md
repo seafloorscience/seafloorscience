@@ -1,6 +1,6 @@
 ---
-title: Marine Benthic Inter-tidal eDNA Pilot Project
-summary: Vlidating the use of environmental DNA (eDNA) as a method for rapid and cost-effective marine habitat assessment.
+title: Big Data From Small Animals
+summary: Validating the use of environmental DNA (eDNA) as a method for rapid and cost-effective inter-tidal marine habitat assessment.
 tags:
 - Benthic Ecology
 - Marine Monitoring
