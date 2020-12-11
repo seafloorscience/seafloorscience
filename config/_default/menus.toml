@@ -21,12 +21,12 @@
 [[main]]
 name = "Talks"
 url = "#talks"
-weight = 50
+weight = 60
 
 [[main]]
   name = "Media"
   url = "#media"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
