@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Research includes:
   
-  * Sustainable Aquaculture Research
+  * Sustainable Aquaculture
   * Pacific Island Coastal Water Quality
   * Benthic Biogeochemistry and Biodiversity
   """
@@ -50,4 +50,22 @@ date_format = "Jan 2006"
   date_end = "2014-03-01"
   description = """Teaching and demonstrating for Research and Field Skills, Physical and Chemical Processes in the Earth’s System, Aquatic Ecology, GIS Skills for Project Work and Sedimentology Undergraduate and Masters level courses"""
 
+[[experience]]
+  title = "Environmental Consultant"
+  company = "Ecospan Environmental Ltd"
+  company_url = "www.ecospan.co.uk"
+  location = "Plymouth, United Kingdom"
+  date_start = "2010-10-01"
+  date_end = "2009-10-01"
+  description = """Fieldwork, benthic invertebrate identification, lab management, ecotoxicity testing, particle size analysis, statistical data analysis and project reporting."""
+
+[[experience]]
+  title = "Museum Technician"
+  company = "Oxford University Museum of Natural History"
+  company_url = "www.ounhm.ox.ac.uk"
+  location = "Oxford, United Kingdom"
+  date_start = "2006-07-01"
+  date_end = "2007-03-01"
+  description = """Invertebrate Collection management, Zoology Department."""
+  
 +++
