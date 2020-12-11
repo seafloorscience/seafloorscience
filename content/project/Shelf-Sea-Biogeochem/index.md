@@ -5,7 +5,7 @@ tags:
 - Biogeochemistry
 - Shelf Sea
 - Bioturbation
--Benthic Ecology
+- Benthic Ecology
 date: "2014-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
