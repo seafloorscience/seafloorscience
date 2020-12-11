@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Southampton, United Kingdom"
   date_start = "2014-03-01"
   date_end = "2019-01-01"
-  description = """Postdoctoral research on the BLUE-coast and Shelf Sea Biogeochemistry Research Projects"""
+  description = """Postdoctoral researcher on the BLUE-coast and Shelf Sea Biogeochemistry Research Projects."""
 
 [[experience]]
   title = "Associate Tutor"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "Norwich, United Kingdom"
   date_start = "2010-10-01"
   date_end = "2014-03-01"
-  description = """Teaching and demonstrating for Research and Field Skills, Physical and Chemical Processes in the Earth’s System, Aquatic Ecology, GIS Skills for Project Work and Sedimentology Undergraduate and Masters level courses"""
+  description = """Teaching and demonstrating for Research and Field Skills, Physical and Chemical Processes in the Earth’s System, Aquatic Ecology, GIS Skills for Project Work and Sedimentology Undergraduate and Masters level courses."""
 
 [[experience]]
   title = "Environmental Consultant"
@@ -66,6 +66,6 @@ date_format = "Jan 2006"
   location = "Oxford, United Kingdom"
   date_start = "2006-07-01"
   date_end = "2007-03-01"
-  description = """Invertebrate Collection management, Zoology Department."""
-  
+  description = """Invertebrate Collection management within the Zoology Department."""
+
 +++
