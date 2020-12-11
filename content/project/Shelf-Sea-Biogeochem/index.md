@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/seafloorscience
-url_code: "https://www.uk-ssb.org/"
+url_Project Website: "https://www.uk-ssb.org/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
