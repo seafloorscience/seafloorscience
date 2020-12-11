@@ -45,6 +45,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/seafloorscience
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/seafloorscience/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=Y7fGGjYAAAAJ&hl=en
