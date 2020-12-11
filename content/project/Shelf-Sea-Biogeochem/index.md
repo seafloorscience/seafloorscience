@@ -22,9 +22,7 @@ links:
   name: Follow
   url: https://twitter.com/seafloorscience
 
-[[link]]
-name: "Project Website"
-url: "www.uk-ssb.org"
+url_project: "www.uk-ssb.org"
 url_code: ""
 url_pdf: ""
 url_slides: ""
