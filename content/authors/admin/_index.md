@@ -57,6 +57,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5079-5954
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Rachel_Hale7
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rachel-hale-171315151/
