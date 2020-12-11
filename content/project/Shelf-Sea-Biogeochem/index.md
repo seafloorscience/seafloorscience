@@ -21,7 +21,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/seafloorscience
-[[url_custom]]
+
+[[link]]
 name = "Project Website"
 url = "www.uk-ssb.org"
 url_code: ""
