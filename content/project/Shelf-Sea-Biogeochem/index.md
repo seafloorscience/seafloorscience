@@ -1,10 +1,11 @@
 ---
 title: Shelf Sea Biogeochemistry
-summary: An example of using the in-built project page.
+summary: Shelf Seas: The engine of productivity.
 tags:
 - Biogeochemistry
 - Shelf Sea
 - Bioturbation
+- Biodiversity
 - Benthic Ecology
 date: "2014-03-01T00:00:00Z"
 

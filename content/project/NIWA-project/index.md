@@ -1,9 +1,11 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Sediment Secrets
+summary: Reconstructing estuarine condition from sediment core data.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Biogeochemistry
+- Marine Monitoring
+- Sediment Uncovered
+date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
