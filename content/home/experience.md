@@ -62,7 +62,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Museum Technician"
   company = "Oxford University Museum of Natural History"
-  company_url = "https://www.ounhm.ox.ac.uk"
+  company_url = "https://www.oumnh.ox.ac.uk"
   location = "Oxford, United Kingdom"
   date_start = "2006-07-01"
   date_end = "2007-03-01"
