@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: Read here
   url: https://brill.com/view/journals/cr/80/8/article-p1019_11.xml
 url_pdf: https://research.nhm.org/pdfs/27279/27279.pdf
 url_code: ''
