@@ -1,13 +1,16 @@
 ---
-title: "The first record of Periclimenes platalea Holthuis, 1951 (Decapoda, Pontoniinae) in the western Atlantic"
+title: "Predicted levels of future ocean acidification and temperature rise could alter community structure and biodiversity in marine benthic communities"
 authors:
 - admin
-- Sammy De Grave
-date: "2007-01-01T00:00:00Z"
+- Piero Calosi
+- Louise McNeill
+- Nova Mieszkowska
+- Steve Widdicombe
+date: "2011-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2007-01-01T00:00:00Z"
+publishDate: "2011-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +19,25 @@ publishDate: "2007-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Crustaceana*
-publication_short: In *Crustaceana*
+publication: In *Oikos*
+publication_short: In *Oikos*
 
-abstract: Holthuis (1951) described Periclimenes platalea on the basis of specimens from São Vicente (Cape Verde Islands) and off French Guinea (present day Guinea). Since then the  species  has  only  been  recorded  from  São  Tiago  (Cape  Verde Islands) by Wirtz & d’Udekem d’Acoz (2001) and from São Tomé Island in the  Gulf of Guinea (Wirtz, 2003). Although no host association was recorded in the original description (Holthuis, 1951), Wirtz & d’Udekem d’Acoz (2001) record P. platalea from Antipathes spp. (Cnidaria, Antipatharia) and Leptogorgia gaini Stiasny, 1940 (Cnidaria, Gorgonacea), whilst Wirtz (2003) records the species from Leptogorgia sp. During  fieldwork  in  Tobago  in  2003,  2  male  (post-orbital  carapace  length1.3-1.5  mm)  and  5  female  (pocl  1.0-1.5  mm)  specimens  were  collected  by S. De Grave, representing the first record of this species from the western Atlantic. Specimens were collected from the hydroid, Gymnangium longicauda (Nutting,1900), encrusted with Parazoanthus tunicans Duerden, 1900 from the western side of Big Rock, Man of War Bay, NE side of Tobago (11◦19.344′N60◦33.484′W) on the 19thSeptember 2003 at a depth of 15 m. The material has been deposited in the collections of the Oxford University Museum of Natural History (OUMNH-ZC2004-19-002).
+abstract: "A mesocosm experiment was conducted to quantify the effects of reduced pH and elevated temperature on an intact marine invertebrate community. Standardised faunal communities, collected from the extreme low intertidal zone using artificial substrate units, were exposed to one of eight nominal treatments (four pH levels: 8.0, 7.7, 7.3 and 6.7, crossed with two temperature levels: 12 and 16°C). After 60 days exposure communities showed significant changes in structure and lower diversity in response to reduced pH. The response to temperature was more complex. At higher pH levels (8.0 and 7.7) elevated temperature treatments contained higher species abundances and diversity than the lower temperature treatments. In contrast, at lower pH levels (7.3 and 6.7), elevated temperature treatments had lower species abundances and diversity than lower temperature treatments. The species losses responsible for these changes in community structure and diversity were not randomly distributed across the different phyla examined. Molluscs showed the greatest reduction in abundance and diversity in response to low pH and elevated temperature, whilst annelid abundance and diversity was mostly unaffected by low pH and was higher at the elevated temperature. The arthropod response was between these two extremes with moderately reduced abundance and diversity at low pH and elevated temperature. Nematode abundance increased in response to low pH and elevated temperature, probably due to the reduction of ecological constraints, such as predation and competition, caused by a decrease in macrofaunal abundance. This community‐based mesocosm study supports previous suggestions, based on observations of direct physiological impacts, that ocean acidification induced changes in marine biodiversity will be driven by differential vulnerability within and between different taxonomical groups. This study also illustrates the importance of considering indirect effects that occur within multispecies assemblages when attempting to predict the consequences of ocean acidification and global warming on marine communities."
 
 # Summary. An optional shortened abstract.
-summary: We describe the first record of Periclimenes platelea, a decapod shrimp, from the western Atlantic with taxonomic drawings of the distinguishing characteristics.
+summary: We exposed UK benthic rocky shore communities to elevated temperature and low pH hypercapnia which resulted in changes in community abundance and diversity. Calcifying species were most vulnerable, Nematodes and Annelids were least vulnerable.  Indirect effects, such as reduction in predation and competition, in multispecies assemblages will have a large effect in communities, as well as the direct effects of ocean acidification and increased temperature.
 
 tags:
-- Taxonomy
+- Marine Ecology
+- Climate Change
+- Ocean Acidification
+- Inter-tidal
 featured: false
 
 links:
 - name: Read here
-  url: https://brill.com/view/journals/cr/80/8/article-p1019_11.xml
-url_pdf: https://research.nhm.org/pdfs/27279/27279.pdf
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0706.2010.19469.x
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1600-0706.2010.19469.x
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -43,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Artificial substrate units (pan scourer) attached to the rocky inter-tidal to collect a marine invertebrate community'
   focal_point: ""
   preview_only: false
 
