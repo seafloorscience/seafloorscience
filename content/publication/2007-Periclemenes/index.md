@@ -32,13 +32,13 @@ links:
 - name: Custom Link
   url: https://brill.com/view/journals/cr/80/8/article-p1019_11.xml
 url_pdf: https://research.nhm.org/pdfs/27279/27279.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
