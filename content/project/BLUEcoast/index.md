@@ -1,12 +1,13 @@
 ---
-title: The Engine of Productivity
-summary: The Shelf Sea Biogeochemistry Research Project
+title: BLUE-coast
+summary: Physical and biological dynamic coastal processes and their role in coastal recovery.
 tags:
 - Biogeochemistry
-- Shelf Sea
+- Inter-tidal
 - Bioturbation
 - Biodiversity
 - Benthic Ecology
+- Sediment Uncovered
 date: "2014-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
