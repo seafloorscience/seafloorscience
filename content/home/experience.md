@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Marine Ecologist"
-  company = "NIWA, Nelson"
+  company = "National Institute of Water and Atmospheric Research (NIWA), Nelson"
   company_url = "www.niwa.co.nz"
   location = "Nelson, New Zealand"
   date_start = "2019-02-01"
