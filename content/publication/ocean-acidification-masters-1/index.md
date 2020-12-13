@@ -1,12 +1,7 @@
 ---
 title: "Predicted levels of future ocean acidification and temperature rise could alter community structure and biodiversity in marine benthic communities"
 authors:
-- admin
-- Piero Calosi
-- Louise McNeill
-- Nova Mieszkowska
-- Steve Widdicombe
-date: "2011-01-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
