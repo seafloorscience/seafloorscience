@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Artificial substrate units (pan scourers) attached to the rocky inter-tidal to collect a marine invertebrate community'
+  caption: 'Animal burrow structures in the sediment revealed by computed tomography (CT)'
   focal_point: ""
   preview_only: false
 
