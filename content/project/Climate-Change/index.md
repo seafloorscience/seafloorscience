@@ -1,6 +1,6 @@
 ---
-title: Climate Change
-summary: Benthic Community Responses to Climate Change
+title: Benthic Climate Change
+summary: Benthic community responses to climate change
 tags:
 - Inter-tidal
 - Ocean Acidification
