@@ -25,7 +25,11 @@ Sarmento, V.C., Santos, P.J.P, Ingels, J., Widdicombe, S., Hale, R., (2017) Effe
 summary: High CO2 and warming have effects on the harpacticoid copepod community structure. Communities weer affected by both stressors with species malformations observed at pH 6.7. Sub-lethal effects could have consequences for populations in the long-term.
 
 tags:
-- Taxonomy
+- Ocean Acidification
+- Global Warming
+- Inter-tidal
+- Climate Change
+- Benthic Ecology
 featured: false
 
 links:
@@ -54,7 +58,7 @@ image:
 #   Otherwise, set `projects: []`.
 #projects:
 #- internal-project
-projects: []
+projects: 'OA-and-Temp'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

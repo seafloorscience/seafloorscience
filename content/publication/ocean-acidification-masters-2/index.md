@@ -27,6 +27,7 @@ summary: High CO2 and warming have effects on meiofauna and nematode structural 
 
 tags:
 - Ocean Acidification
+- Global Warming
 - Inter-tidal
 - Climate Change
 - Benthic Ecology
@@ -58,7 +59,7 @@ image:
 #   Otherwise, set `projects: []`.
 #projects:
 #- internal-project
-projects: []
+projects: 'OA-and-Temp'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
