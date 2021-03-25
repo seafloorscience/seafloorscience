@@ -50,6 +50,8 @@ My work formed part of Work Package 2: "Biogeochemistry, macronutrient and carbo
 
 Publications:
 
+Thompson, C.E.L., Mayor, D., Fones, G., Hale, R. (2019). Across the sediment-water interface: Biogeochemical cycling in coastal and shelf seas. Continental Shelf Research, 185:1-2.
+
 Hale, R., Godbold, J.A., Sciberras, M., Dwight, J., Wood, C. L., Hiddink, J., Solan, M. (2017) Mediation of macronutrients and carbon by post-disturbance shelf sea sediment communities. Biogeochemistry, 135:1-34.
 
 Godbold, J.A., Hale, R., Wood, C.L., Solan, M. (2017) Vulnerability of nutrient dynamics to the concurrent effects of enhanced temperature and atmospheric pCO2 in representative shelf sea sediment habitats. Biogeochemistry 135:89-102.
