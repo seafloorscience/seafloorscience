@@ -17,10 +17,12 @@ publication_types: ["2"]
 publication: In *ICES Journal of Marine Science*
 publication_short: In *ICES Journal of Marine Science*
 
-abstract: Warming and ocean acidification have been shown to have significant impacts on marine organisms. However, none studies have addressed the impact of these two stressors on harpacticoid copepod community structure. A mesocosm experiment was conducted to assess the potential interactive impact of different levels of elevated CO2 and temperature on an intertidal harpacticoid copepod community. Artificial substrate units (ASUs) colonized by meiofauna from the extreme low intertidal zone were exposed to eight experimental treatments (four pH levels: 8.0, 7.7, 7.3 and 6.7, crossed with two temperature levels: 12 and 16 C). After 60 days exposure communities were significantly affected by both stressors. The dominant harpacticoid species were mainly affected at treatments held at pH 6.7, but with divergent biological response patterns. At pH 6.7 Tisbe sp and Ectinosoma sp2 exhibited important density reductions, while considerable density increases were observed for Amphiascus longarticulatus and Amphiascoides golikovi. This study has demonstrated that elevated levels of CO2 and ocean warming may have substantial effects on the structure of harpacticoid communities. Importantly, the increase in malformations observed at pH 6.7 indicated that we need to consider sub-lethal effects that could have consequences for populations after long periods of exposure.
+abstract: "Warming and ocean acidification have been shown to have significant impacts on marine organisms. However, none studies have addressed the impact of these two stressors on harpacticoid copepod community structure. A mesocosm experiment was conducted to assess the potential interactive impact of different levels of elevated CO2 and temperature on an intertidal harpacticoid copepod community. Artificial substrate units (ASUs) colonized by meiofauna from the extreme low intertidal zone were exposed to eight experimental treatments (four pH levels: 8.0, 7.7, 7.3 and 6.7, crossed with two temperature levels: 12 and 16 C). After 60 days exposure communities were significantly affected by both stressors. The dominant harpacticoid species were mainly affected at treatments held at pH 6.7, but with divergent biological response patterns. At pH 6.7 Tisbe sp and Ectinosoma sp2 exhibited important density reductions, while considerable density increases were observed for Amphiascus longarticulatus and Amphiascoides golikovi. This study has demonstrated that elevated levels of CO2 and ocean warming may have substantial effects on the structure of harpacticoid communities. Importantly, the increase in malformations observed at pH 6.7 indicated that we need to consider sub-lethal effects that could have consequences for populations after long periods of exposure.
+
+Sarmento, V.C., Santos, P.J.P, Ingels, J., Widdicombe, S., Hale, R., (2017) Effects of elevated CO2 and temperature on an intertidal harpacticoid copepod community..ICES Journal of Marine Science 74:1159-1169."
 
 # Summary. An optional shortened abstract.
-summary: We describe the first record of Periclimenes platelea, a decapod shrimp, from the western Atlantic with taxonomic drawings of the distinguishing characteristics.
+summary: High CO2 and warming have effects on the harpacticoid copepod community structure. Communities weer affected by both stressors with species malformations observed at pH 6.7. Sub-lethal effects could have consequences for populations in the long-term.
 
 tags:
 - Taxonomy
@@ -28,8 +30,8 @@ featured: false
 
 links:
 - name: Read here
-  url: https://brill.com/view/journals/cr/80/8/article-p1019_11.xml
-url_pdf: https://research.nhm.org/pdfs/27279/27279.pdf
+  url: https://academic.oup.com/icesjms/article/74/4/1159/2667172
+url_pdf: https://watermark.silverchair.com/fsw192.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
