@@ -1,5 +1,5 @@
 ---
-title: "Effects of elevated CO U+2082 and temperature on an intertidal meiobenthic community"
+title: "Effects of elevated CO2 and temperature on an intertidal meiobenthic community"
 authors:
 date: ""
 doi: ""
