@@ -28,6 +28,7 @@ summary: We exposed UK benthic rocky shore communities to elevated temperature a
 tags:
 - Marine Ecology
 - Climate Change
+- Global Warming
 - Ocean Acidification
 - Inter-tidal
 featured: false
