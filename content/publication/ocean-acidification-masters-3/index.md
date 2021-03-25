@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'A pan scourer in the intertidal collecting an inter-tidal macrofaunal community before transfer to the laboratory'
+  caption: 'A pan scourer in the inter-tidal collecting an inter-tidal macrofaunal community before transfer to the laboratory'
   focal_point: ""
   preview_only: false
 
