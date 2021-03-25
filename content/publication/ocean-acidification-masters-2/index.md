@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'The climate change experiment set up in the Mesocosm Room at Plymouth Marine Laboratory'
   focal_point: ""
   preview_only: false
 
