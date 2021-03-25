@@ -59,7 +59,7 @@ image:
 #   Otherwise, set `projects: []`.
 #projects:
 #- internal-project
-projects: 'OA-and-Temp'
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
